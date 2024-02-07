@@ -1,13 +1,10 @@
-# ACE-AUTO-FORWARD
+
 
 ## CHANNEL AUTO FORWARD
 
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/imacekun/ACE-AUTO-FORWARD/tree/main)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/AceCallRobot)
-
 ## How to Deploy? 🤔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imacekun/ACE-AUTO-FORWARD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rahulsinghcreator/aceforward)
 - 👆 Press the deploy button.
 
 - Go to  [my.telegram.org](https://my.telegram.org/)
@@ -16,12 +13,6 @@
 
 - Get the Bot Father Token from [@BotFather](https://telegram.dog/botfather)
 
-
-
-
-## How to reach Me ?
-<a href="https://telegram.dog/WickedSkull"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/AceCallRobot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## COMMANDS
 ### AVAILABLE COMMANDS 
