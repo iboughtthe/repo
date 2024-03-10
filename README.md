@@ -4,7 +4,7 @@
 
 
 ## How to Deploy? 🤔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rahulsinghcreator/aceforward)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iboughtthe/repo)
 - 👆 Press the deploy button.
 
 - Go to  [my.telegram.org](https://my.telegram.org/)
